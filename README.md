@@ -78,6 +78,7 @@ src/
 The project includes development test components accessible via the "Development Test Components" accordion:
 - **Game Logic Test** - Manual testing of game mechanics
 - **Piece Test** - Individual piece rotation testing
+- https://claude.ai/share/1bc677ad-8b87-4d65-9089-33fc87469894
 
 ## 📝 License
 
